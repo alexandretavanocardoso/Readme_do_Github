@@ -216,7 +216,7 @@
 **Exemplo**
 
 <div style="width: 460px; heigth: 300px;">
-   ![Loca](Code.webp)
+![Loca](Code.webp)
 </div>
 
 ```sh
