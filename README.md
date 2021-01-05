@@ -213,6 +213,10 @@
 
 ### IMAGENS LOCAIS
 
+**Exemplo**
+
+![Loca}(Code.webp)
+
 ```sh
     ![NomeImagem](CaminhoDela "Titulo")
 ```
