@@ -215,7 +215,7 @@
 
 **Exemplo**
 
-![Loca}(Code.webp)
+![Loca](Code.webp)
 
 ```sh
     ![NomeImagem](CaminhoDela "Titulo")
