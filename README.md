@@ -175,12 +175,12 @@
 **Exemplos**
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="https://neilpatel.com/wp-content/uploads/2017/12/codigos-html-para-paginas-web.jpeg">
 </p>
 
 ```sh
     <p align="center">
-        <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+        <img width="460" height="300" src="https://neilpatel.com/wp-content/uploads/2017/12/codigos-html-para-paginas-web.jpeg>
     </p>
 ```
 
@@ -189,24 +189,24 @@
 **Exemplos**
 
 <p align="left">
-    <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+    <img width="460" height="300" src="https://neilpatel.com/wp-content/uploads/2017/12/codigos-html-para-paginas-web.jpeg">
 </p>
 
 ```sh
     <p align="left">
-        <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+        <img width="460" height="300" src="https://neilpatel.com/wp-content/uploads/2017/12/codigos-html-para-paginas-web.jpeg">
     </p>
 ```
 
 #### Direita
 
 <p align="right">
-    <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+    <img width="460" height="300" src="https://neilpatel.com/wp-content/uploads/2017/12/codigos-html-para-paginas-web.jpeg">
 </p>
 
 ```sh
   <p align="right">
-    <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+    <img width="460" height="300" src="https://neilpatel.com/wp-content/uploads/2017/12/codigos-html-para-paginas-web.jpeg">
   </p>
 ```
 --- 
