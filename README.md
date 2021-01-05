@@ -215,9 +215,7 @@
 
 **Exemplo**
 
-<div style="width: 460px; heigth: 300px;">
 ![Loca](Code.webp)
-</div>
 
 ```sh
     ![NomeImagem](CaminhoDela "Titulo")
