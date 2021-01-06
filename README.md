@@ -227,7 +227,7 @@
 
 **Exemplos**
 
-![NomeImagem](http://www.fillmurray.com/460/300 "Titulo")
+![NomeImagem](https://camo.githubusercontent.com/581afa24244dec5562949c7b82d407ed6c12ec877c81d73d9ac09c1a19fdd41a/68747470733a2f2f6e65696c706174656c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f31322f636f6469676f732d68746d6c2d706172612d706167696e61732d7765622e6a706567 "Titulo")
 
 ```sh
     ![NomeImagem](LinkDela "Titulo")
